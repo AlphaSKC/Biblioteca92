@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\webapi92\\services\\autorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|solutionrelative:webapi92\\services\\autorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\webapi92\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|solutionrelative:webapi92\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\webapi92\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|solutionrelative:webapi92\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\webapi92\\services\\iautorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|solutionrelative:webapi92\\services\\iautorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\webapi92\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|solutionrelative:webapi92\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\webapi92\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|solutionrelative:webapi92\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\webapi92\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F4288BF-121A-4003-89E2-65942A546B23}|WebApi92\\WebApi92.csproj|solutionrelative:webapi92\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A4067D-A8B6-4931-8B05-9E46804E1D30}|Domain\\Domain.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A4067D-A8B6-4931-8B05-9E46804E1D30}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A4067D-A8B6-4931-8B05-9E46804E1D30}|Domain\\Domain.csproj|c:\\users\\kevcb\\source\\repos\\webapi92\\domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A4067D-A8B6-4931-8B05-9E46804E1D30}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "WebApi92\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "WebApi92\\Services\\UsuarioServices.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowFsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:45:50.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "WebApi92\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "WebApi92\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:41:08.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "WebApi92\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "WebApi92\\Controllers\\AutoresController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA0wDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:25:43.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAutorServices.cs",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Services\\IAutorServices.cs",
+              "RelativeDocumentMoniker": "WebApi92\\Services\\IAutorServices.cs",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Services\\IAutorServices.cs",
+              "RelativeToolTip": "WebApi92\\Services\\IAutorServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:25:23.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorServices.cs",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Services\\AutorServices.cs",
+              "RelativeDocumentMoniker": "WebApi92\\Services\\AutorServices.cs",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Services\\AutorServices.cs",
+              "RelativeToolTip": "WebApi92\\Services\\AutorServices.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwDkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:12:39.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi92\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi92\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T08:48:21.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi92\\Program.cs",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\WebApi92\\Program.cs",
+              "RelativeToolTip": "WebApi92\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:47:38.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:46:06.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\Domain\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\kevcb\\source\\repos\\WebApi92\\Domain\\Entities\\Autor.cs",
+              "RelativeToolTip": "Domain\\Entities\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:46:04.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
